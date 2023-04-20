@@ -5,9 +5,16 @@
 - adding cards grid
 - adding card components with styles
 
-# Choice logic
+# Select logic
 
 - adding state for choices
 - adding "handle choices" function for handling choices
 - comparing choicen cards and increasing turn count
 - adding "matched" property to cards and setting this property to true after match
+
+# Flip
+
+- adding flip style
+- adding "flipped" prop to "SingleCard" component
+- adding "disabled" prop to "singleCard" component
+- adding auto start
