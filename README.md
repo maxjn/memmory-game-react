@@ -4,7 +4,7 @@ Memmory Game app using **React**.
 
 This project was bootstrapped using [Vite](https://vitejs.dev/)
 
-See the [Live Project](https://maxjn-memmory-game.pages.dev/).
+See the [Live Project](https://maxjn-memory-game.pages.dev/).
 
 # Technologies
 
