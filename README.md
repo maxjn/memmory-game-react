@@ -9,9 +9,7 @@ See the [Live Project](https://maxjn-memmory-game.pages.dev/).
 # Technologies
 
 - React
-- **Redux** for state management
-- **Toastify** package for toast messages
-- useState & useEffects , useParams... Hooks
+- useState & useEffects Hooks
 - HTML, CSS
 
 # Installing / Getting started
