@@ -10,7 +10,7 @@ See the [Live Project](https://maxjn-memory-game.pages.dev/).
 
 - React
 - useState & useEffects Hooks
-- HTML, CSS
+- JSX, CSS
 
 # Installing / Getting started
 
